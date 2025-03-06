@@ -20,3 +20,4 @@ The routers are connected to a common/main router which is then connected to the
 - Send mails to different PCs in the network *(requires adding the mail address in the SMPT server and configuring the PC's email)*
 - Recieve mails from different PCs in the network *(requires adding the mail address in the SMPT server and configuring the PC's email)*
 - DNS server name resolving.
+- Packet transfer from one PC to another within the same network and to PCs in external networks.
