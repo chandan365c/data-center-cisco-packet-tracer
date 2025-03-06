@@ -13,3 +13,10 @@ The goal is to simulate a very basic idea of how different networks in different
 
 The network consists of PCs as end devices which are connected to switches which are inturn connected to routers. <br>
 The routers are connected to a common/main router which is then connected to the data center.
+
+<br>
+
+### Features:
+- Send mails to different PCs in the network *(requires adding the mail address in the SMPT server and configuring the PC's email)*
+- Recieve mails from different PCs in the network *(requires adding the mail address in the SMPT server and configuring the PC's email)*
+- DNS server name resolving.
